@@ -1,0 +1,3 @@
+NODE_ENV: '"production"'
+VUE_APP_BASE_API: '"/api"'
+DT_CORP_ID: '"ding27ee946c13e5554535c2f4657eb6378f"'
